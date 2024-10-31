@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PreventDeleting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-12 10:54+0200\n"
+"PO-Revision-Date: 2015-09-12 10:54+0200\n"
+"Last-Translator: Urban Sanden <hej@urre.me>\n"
+"Language-Team: AboZain <eng.banna1@gmail.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../prevent-posts-from-deleting.php:18
+msgid "Prevent Deleting"
+msgstr "منع الحذف"
+
+#: ../prevent-posts-from-deleting.php:46
+msgid "Prevent Pages From Deleteing"
+msgstr "منع الصفحات من الحذف"
+
+#: ../prevent-posts-from-deleting.php:59
+#, php-format
+msgid "Select %s To Disable From Deleteing"
+msgstr "اختار  %s  التي تريد منع حذفها"
+
+#: ../prevent-posts-from-deleting.php:117
+msgid "The page you were trying to delete is protected."
+msgstr "لا يمكنك حذف هذه الصفحة لانها محمية من المدير"
+
+#~ msgid "Rename Default Post"
+#~ msgstr "اعادة تسمية المقالات"
+
+#~ msgid "News"
+#~ msgstr "الأخبار"
+
+#~ msgid "Add News"
+#~ msgstr "اضافة خبر جديد"
+
+#~ msgid "Edit News"
+#~ msgstr "تعديل الخبر"
+
+#~ msgid "View News"
+#~ msgstr "معاينة الخبر"
+
+#~ msgid "Search News"
+#~ msgstr "البحث في الأخبار"
+
+#~ msgid "No News found"
+#~ msgstr "لا توجد أخبار"
+
+#~ msgid "No News found in Trash"
+#~ msgstr "لا توجد أخبار في سلة المهملات"
+
+#~ msgid "Rename your Default Post name to custom name in admin menu"
+#~ msgstr ""
+#~ "إعادة تسمية الافتراضي المسميات الافتراضية للمقالات باسم مخصص من عندك"
+
+#~ msgid "Posts"
+#~ msgstr "مقالات1"
+
+#~ msgid "Post"
+#~ msgstr "مقالة"
+
+#~ msgid "Add New"
+#~ msgstr "اضافة جديد"
+
+#~ msgid "Add New Post"
+#~ msgstr "أضف مقالة جديدة"
+
+#~ msgid "Edit Post"
+#~ msgstr "تحرير المقالة"
+
+#~ msgid "New Post"
+#~ msgstr "مقالة جديدة"
+
+#~ msgid "View Post"
+#~ msgstr "مشاهدة المقالة"
+
+#~ msgid "Search Posts"
+#~ msgstr "بحث في المقالات"
+
+#~ msgid "No posts found."
+#~ msgstr "لا توجد أخبار"
+
+#~ msgid "No posts found in Trash."
+#~ msgstr "لا توجد أخبار في سلة المهملات"
+
+#~ msgid "Not found Posts"
+#~ msgstr "لا توجد مقالات في سلة المهملات."
+
+#~ msgid "Not found in trash"
+#~ msgstr "لا توجد أخبار في سلة المهملات"
+
+#~ msgid "Name"
+#~ msgstr "الاسم"
+
+#~ msgid "Singular Name"
+#~ msgstr "الاسم المفرد"
+
+#~ msgid "Add new item"
+#~ msgstr "اضافة عنصر جديد"
+
+#~ msgid "Edit item"
+#~ msgstr "تعديل "
+
+#~ msgid "View item"
+#~ msgstr "معاينة"
+
+#~ msgid "Search item"
+#~ msgstr "بحث"
+
+#~ msgid "Publish"
+#~ msgstr "Publicera"
+
+#~ msgid "Update"
+#~ msgstr "Uppdatera"
+
+#~ msgid "Are you sure you want to publish this?"
+#~ msgstr "Är du säker på att du vill publicera?"
+
+#~ msgid "testing"
+#~ msgstr "TESTAR"
+
+#~ msgid "Hide"
+#~ msgstr "Göm"
+
+#~ msgid "Set featured image"
+#~ msgstr "Ange utvald bild"
+
+#~ msgid "Remove attachment"
+#~ msgstr "Ta bort bilaga"
+
+#~ msgid "files attached"
+#~ msgstr "bilagor"
+
+#~ msgid "Searching..."
+#~ msgstr "Söker…"
+
+#~ msgid "No album cover(s) were found"
+#~ msgstr "Inga omslag hittades"
+
+#~ msgid "Try again"
+#~ msgstr "Försök igen"
+
+#~ msgid "Save post to change/remove featured image"
+#~ msgstr "Spara för att ändra/ta bort utvald bild"
+
+#~ msgid "Album cover finder"
+#~ msgstr "Sök skivomslag"
+
+#~ msgid "Search album covers"
+#~ msgstr "Sök skivomslag"
+
+#~ msgid "Artist"
+#~ msgstr "Artist"
+
+#~ msgid "Album"
+#~ msgstr "Album"
+
+#~ msgid "Clear"
+#~ msgstr "Rensa"
+
+#~ msgid "Add as attachment"
+#~ msgstr "Lägg som bilaga"
+
+#~ msgid "Insert in editor"
+#~ msgstr "Infoga i innehåll"
+
+#~ msgid "Attachments"
+#~ msgstr "Bilagor"
